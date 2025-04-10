@@ -1,0 +1,14 @@
+{
+    "servers": {
+        "terminal-agent-01": {
+            "type": "stdio",
+            "command": "uv",
+            "args": [
+                "--directory",
+                "C:/Users/Shivansh Tuteja/Desktop/Codes/automation-ai/intro-to-mcps/terminal_agent_mcp_pythonsdk",
+                "run",
+                "terminal_server.py"
+            ]
+        }
+    }
+}
